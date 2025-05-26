@@ -1,14 +1,14 @@
 /*Cambia el color de fondo de la pagina en general*/
 .content{
-    background-color: white;
+    background-color: blue;
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: green;
 }
 /*Cambia el color de la letra del titulo*/
 .galery__link{
-    color: white;
+    color: grey;
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el tamaño de la letra del titulo a 36px*/
