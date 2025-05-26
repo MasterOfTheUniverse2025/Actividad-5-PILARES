@@ -4,7 +4,7 @@
 }
 /*Cambia el color de fondo del encabezado*/
 .header__banner{
-    background-color: black;
+    background-color: red;
 }
 /*Cambia el tipo de letra del titulo a Oswald*/
 /*Cambia el color de la letra del titulo*/
@@ -49,7 +49,7 @@
 /*Cambiar el de fondo del pie de pagina*/
 /*Cambia la alineacion del texto a al centro*/
 .footer{
-    background-color: black;
+    background-color: red;
     text-align: right;
 }
 /*Cambia el tipo de letra del pie de pagina a Montserrat*/
